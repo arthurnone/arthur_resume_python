@@ -1,0 +1,2 @@
+flask
+graphene>=2.0
